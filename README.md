@@ -34,8 +34,6 @@ pm2 startup
 
 ### 5. Access Website
 - **Website:** `http://YOUR_SERVER_IP:3000`
-- **Admin Panel:** Click logo 5 times OR go to `http://YOUR_SERVER_IP:3000/#admin`
-- **Admin Password:** `cornerstone2025` (change in server.js)
 
 ## 📦 Features
 
